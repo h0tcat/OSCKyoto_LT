@@ -1,0 +1,2 @@
+# OSCKyoto_LT
+OSKyotoの学生LT用に作ったスライドをアップロードします
